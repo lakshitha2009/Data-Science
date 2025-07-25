@@ -1,0 +1,16 @@
+Necessary and Optional things in a Phone
+Necessary:
+-	Battery
+-	Memory and Storage 
+-	Microphone
+-	Sim Card Tray
+-	Speakers
+-	System on chip(SOC)
+-	Sensors
+-	Display
+Optional:
+-	Video Download
+-	GPS Navigation
+-	Bluetooth
+-	Wifi
+-	Modems

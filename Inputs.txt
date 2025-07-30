@@ -1,0 +1,50 @@
+1.	Output: Qualified (Job)
+		Disqualified
+Input: Education
+Experience 
+Interview Score 
+Certification
+Background Check 
+2.	Output: Verified (Product)
+		Not Verified 
+	Input: Quality Check 
+		Packaging 
+		Manufacturing Details
+		Serial Number 
+		Image Reference 
+3.	Output: Gain (Business Investment)
+		Not Gain
+Input: Initial Investment 
+Cost 
+Returns
+Time Taken 
+Goal Achieved	
+4.	Output: True (User Registration)
+		False
+	Input: Mail id
+		Age
+		Username 
+		Password
+		Country 
+5.	Output: High (Student Performance)
+		Low 
+	Input: Overall Academic Score 
+		Attendance 
+		Extra curiculars
+		Student ID
+		Name 
+6.	Output: Profit (Sales)
+		Loss
+	Input: Expenses 
+		Revenue
+		Cost of Goods Sold
+		Return
+		Tax
+7.	Output: Increase (Student Performance)
+		Decrease 
+	Input: Class Participation 
+		Teacher Feedback 
+		Attendance 
+		Student ID
+		Test Scores
+

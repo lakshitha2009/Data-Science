@@ -1,0 +1,42 @@
+Classification
+Output: Animal, Birds, Companies, Transport, Pan India, Language, Device
+Input For Animals: (Mammal, Bird, Reptile, Fish, Amphibian)
+-	Body Covering 
+-	Reproduction type
+-	Habitat
+-	Thermoregulation
+-	No. of Limbs and Fins
+Input For Birds: 
+-	Beak Shape
+-	Flying Capability 
+-	Habitat
+-	Diet Type 
+-	Leg Type 
+Input For Companies:( Tech, Bank, Retailer, Manufacturer, Startup)
+-	Industry Sector 
+-	Service Providing 
+-	Bussiness Type 
+-	Company Stage 
+-	Digital Presence 
+Input For Transport: (Air, Water, Land)
+-	Mode of Travel 
+-	Powered By
+-	Passenger Capacity 
+-	Has Engine or Not 
+-	Traveling Route 
+Input For Pan India:
+-	Metro Availability 
+-	Population 
+-	Language 
+Input For Language:
+-	Language Family 
+-	Script Used
+-	Language used in any country officially 
+-	Primary Region Spoken 
+-	Writing Direction
+Input For Device:
+-	Form Factor 
+-	Input Method 
+-	Display Size 
+-	Primary Usage Context
+-	Does it have Built in Cellular Connectivity 

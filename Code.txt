@@ -1,0 +1,33 @@
+a= 5                
+b=8
+a=4
+b=9
+a=5
+b=8
+
+
+Raj= 2CHILD- male
+1ST CHILD= 1 Kid- female
+2nd CHILD- 3 kids- 1 male & 2 female
+total female- 6
+total male-4
+
+1 Person= 1 work-8 hours
+3 persons= same work - 2hr 40 mins
+
+a=5
+b=8
+c=b-2
+d=a-3
+print(c,d)
+e=c+1
+f=d+1
+print(e,f)
+g=e-2
+h=f+5
+print(g,h)
+
+a=2
+b=4
+c=a+b
+print("The sum of a and b is:", c)

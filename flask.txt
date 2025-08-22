@@ -1,0 +1,17 @@
+from flask import Flask
+app = Flask(__name__)
+@app.route("/")
+def hello_world():
+    return "<h1>How to Run a Flask application</h1><p>Step 1:Install Flask</p><br><p>Step 2: Create a file named app.py</p><br><p>Step 3: Write the code in app.py</p><br><p>Step 4: Run the application using the command <code>flask run</code></p><br><p>Step 5: Open your browser and paste the URL <code>http://127.0.0.1:5000/</code></p>"
+@app.route('/hello')
+def hello():
+    return 'Hello, World'
+@app.route('/kaggle')
+def dataset():
+    return "<h1>This is kaggle dataset</h1><br><p>To access the dataset, visit <a href='https://www.kaggle.com/datasets'>Kaggle Datasets</a></p><br><p>Explore various datasets for your data science projects.</p><br><p>Downloaded datasets on the categories Pan India, Animals, Birds, Transport, Devices, Companies</p><br><p>Start exploring and analyzing the datasets to gain insights and build models.</p>"
+@app.route('/Modules')
+def modules():
+    return "<h1>Support Vector Machine (SVM)</h1><br><p>Open google collab and create a new notebook.</p><br><p>Import the required libraries using the command</p><br><p>Now we have to import the dataset using the command</p><br><p>Load the dataset using the command</p><br><p>Now we have to split the dataset into training and testing sets using the command</p><br><p>Now we have to train the model using the command</p><br><p>Now we have to make predictions using the command</p><br><p>we can evaluate the model using the command</p>"
+@app.route('/Youtube')
+def youtube():
+    return "<iframe width='560' height='315' src='https://www.youtube.com/embed/K5KVEU3aaeQ?si=O2YOS1DWlfxDvXrx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
